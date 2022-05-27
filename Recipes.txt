@@ -6,4 +6,8 @@ Kheer
 Paste
 Chicken
 
+
+Beans
+Pizza
+
 Thank You
